@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="botao_no_centro">botão no mcentro</string>
+    <string name="btn_final_tela">btn final tela</string>
+    <string name="nome">Nome:</string>
+    <string name="email">Digite Seu E-mail</string>
+</resources>
